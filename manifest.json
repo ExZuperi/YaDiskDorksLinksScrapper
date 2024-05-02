@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Yandex Disk Link Scraper",
+  "version": "1.0",
+  "permissions": ["activeTab", "tabs", "storage", "downloads"],
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://www.google.com/*"],
+      "js": ["contentScript.js"]
+    }
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  }
+}
+
