@@ -1,4 +1,4 @@
-## [You can read my article about this funny dork](https://telegra.ph/Dork-i-kurilshchika-05-02](https://t.me/citadelle_de_exzuperi/35)
+## [You can read my article about this funny dork](https://telegra.ph/Dork-i-kurilshchika-05-02)
 Simple script to scrap all links from search like "site:https://disk.yandex.ru/"
 
 # Usage
