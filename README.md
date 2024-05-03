@@ -1,7 +1,7 @@
 ## [You can read my article about this funny dork](https://t.me/citadelle_de_exzuperi/35)
 Simple script to scrap all links from search like "site:https://disk.yandex.ru/"
 
-# Usage
+# Installation
 #### Load extension from zip or js:
 ![image](https://github.com/ExZuperi/YaDiskDorksLinksScrapper/assets/54681029/66ee99d8-3896-4ad5-a990-02361b067f17)
 
